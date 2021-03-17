@@ -46,7 +46,7 @@ You can see the previous graphs translated into RDF in the file `src/collection.
     obelisk:ownedBy me: ;
     obelisk:heigth "15.0" .
 ```
-
+# Please update the source code in this to reflect your site's links properly
 <iframe src="https://codesandbox.io/embed/my-first-obelisk-collection-1ybvq?fontsize=14" title="my first obelisk collection" allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb" style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
 
 However, it's not really convenient to manage vocabularies as plain text: it is error-prone, hard to maintain, and unpleasant to read.
